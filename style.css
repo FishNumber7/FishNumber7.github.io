@@ -22,3 +22,9 @@ a:hover { text-decoration: none; }
 
 
 a:active { text-decoration: none; }
+
+#seperator{ 
+    -webkit-user-select: none;
+    -ms-user-select: none; 
+    user-select: none; 
+}
